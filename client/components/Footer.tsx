@@ -1,6 +1,6 @@
 function Footer() {
   return (
-    <div>
+    <div className="footer">
       <h3>Katie Davies 2024 React Practice</h3>
     </div>
   )

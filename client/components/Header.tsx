@@ -1,7 +1,7 @@
 function Header() {
   return (
-    <div>
-      <h2>Shopping List</h2>
+    <div className="header">
+      <h1>Shopping List</h1>
       <p>Let's get planning!</p>
     </div>
   )

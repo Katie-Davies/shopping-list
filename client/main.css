@@ -1,5 +1,32 @@
 body {
-  background-color: #faf8f1;
+  background-color: #8abecf;
   color: #0a1520;
   font-family: 'Poppins', sans-serif;
+}
+.container {
+  height: 100vh;
+}
+.listcontainer {
+  display: flex;
+  justify-content: center;
+}
+.listcontainer ul {
+  margin-left: 100px;
+}
+.listcontainer ul li {
+  padding: 15px;
+}
+
+.header {
+  text-align: center;
+  color: whitesmoke;
+  text-shadow: 1cm;
+}
+
+.cart {
+  text-align: center;
+}
+.footer {
+  color: white;
+  padding-left: 15px;
 }
