@@ -12,6 +12,12 @@ body {
 }
 .listcontainer ul {
   margin-left: 100px;
+  border-style: solid;
+  border-color: #0a1520;
+  background-color: white;
+  border-radius: 5%;
+  width: auto;
+  min-width: 200px;
 }
 .listcontainer ul li {
   padding: 15px;
