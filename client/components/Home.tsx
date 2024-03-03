@@ -1,12 +1,10 @@
 import Footer from './Footer'
+import Header from './Header'
 
 function Home() {
   return (
     <>
-      <div>
-        <h2>Shopping List</h2>
-        <p>Let's get planning!</p>
-      </div>
+      <Header />
 
       <Footer />
     </>
